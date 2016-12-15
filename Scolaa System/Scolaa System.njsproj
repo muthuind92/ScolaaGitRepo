@@ -40,6 +40,7 @@
     <Compile Include="app\home\index.controller.js" />
     <Compile Include="controllers\api\users.controller.js" />
     <Compile Include="controllers\app.controller.js" />
+    <Compile Include="controllers\ForgotPassword.controller.js" />
     <Compile Include="controllers\login.controller.js" />
     <Compile Include="controllers\register.controller.js" />
     <Compile Include="node_modules\accepts\index.js" />
@@ -1893,6 +1894,7 @@
     <Content Include="typings\globals\node\typings.json" />
     <Content Include="typings\globals\q\typings.json" />
     <Content Include="typings\globals\request\typings.json" />
+    <Content Include="views\ForgotPassword.ejs" />
     <Content Include="views\login.ejs" />
     <Content Include="views\partials\footer.ejs" />
     <Content Include="views\partials\header.ejs" />

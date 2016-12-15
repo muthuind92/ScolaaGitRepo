@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('app', ['ui.router'])
+        .module('app', ['ngAnimate', 'ui.router'])
         .config(config)
         .run(run);
 
